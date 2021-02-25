@@ -1,0 +1,68 @@
+.container1 {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-color: blueviolet;
+  padding: 2px;
+  border: 2px solid black;
+  margin: 4px;
+  /* font-family: Georgia, "Times New Roman", Times, serif; */
+  font-family: "Baloo Chettan 2", cursive;
+}
+.div {
+  /* background-color: chocolate; */
+  display: flex;
+  justify-content: center;
+  /* text-align: center; */
+  font-family: "Baloo Chettan 2", cursive;
+}
+.div {
+  border: 2px solid black;
+  /* display: flex; */
+  padding: 5px;
+  margin: 5px;
+  font-family: "Baloo Chettan 2", cursive;
+  background: linear-gradient(to bottom right, red, blue);
+}
+.primary {
+  height: 33px;
+  margin: 2px;
+  display: flex;
+  border-radius: 33px;
+  text-align: center;
+  padding: 20px;
+  cursor: pointer;
+  background-color: yellow;
+  align-items: center;
+  justify-content: center;
+  font-weight: bolder;
+  font-size: 1rem;
+  font-family: "Baloo Chettan 2", cursive;
+}
+.reset {
+  height: 33px;
+  font-weight: bolder;
+  border-radius: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  margin: 2px;
+  padding: 20px;
+  cursor: pointer;
+  background-color: yellow;
+  font-family: "Baloo Chettan 2", cursive;
+}
+.result {
+  /* text-align: center; */
+  align-items: center;
+  font-weight: bolder;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  background-color: cornflowerblue;
+  text-align: center;
+  border: 2px solid black;
+  height: 100px;
+  font-family: "Baloo Chettan 2", cursive;
+}
